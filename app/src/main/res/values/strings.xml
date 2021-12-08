@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Android_Acquaintance</string>
+    <string name="app_name">Первое приложение</string>
+    <string name="switch_text">Переключатель</string>
+    <string name="button_text">Нажмите меня</string>
+    <string name="textview_text">Надпись</string>
+    <string name="checkbox_text">Да или нет?</string>
+    <string name="button_off">Выключено</string>
+    <string name="button_on">Включено</string>
+    <string name="editor_text_text_hint">Произвольный текст</string>
+    <string name="editor_text_names_hint">Имя</string>
+    <string name="editor_text_phone_hint">Телефон</string>
+    <string name="editor_text_number_hint">Число</string>
+    <string name="editor_text_password_hint">Пароль</string>
+    <string name="editor_text_email_hint">Почта</string>
+
 </resources>
